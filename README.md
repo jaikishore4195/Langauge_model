@@ -7,10 +7,15 @@ Tensorflow Eager provides the flexibility to use Tensorflow without using graphs
 
 # Required Tools
 Jupyter Notebook
+
 Numpy
+
 Pandas
+
 Gensim
+
 Tensorflow
+
 Tensorboard
 
 # Quick Start
