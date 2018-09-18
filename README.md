@@ -42,11 +42,17 @@ To run your own model:
 # Files Uploaded
 
 language_model_main.ipynb - Code in Jupyter notebook
+
 language_model_main.py - Code in .py file
+
 war_peace.txt - Dataset
+
 weights61.data-00000-of-00001 - Our trained model weights - if you want to train your own model you can ignore this.
+
 weights61.index - Our trained model weights - if you want to train your own model you can ignore this.
+
 word2vec_tes.model - Trained Word2Vec model - if you want to train your own model you can ignore this.
+
 word2vec.model - Available at the link https://drive.google.com/open?id=1564D9AKSgd6l4J5p-APVUHXpDlxn2PLk it is word2vec trained model - if you want to train your own model you can ignore this.
 
 
