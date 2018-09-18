@@ -22,3 +22,5 @@ Tensorboard
 
 
 # Performance
+
+![](Images/Loss.png)
