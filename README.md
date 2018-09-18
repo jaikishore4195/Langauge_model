@@ -26,7 +26,7 @@ It is a very complex model and takes a lot of time to train. We trained the mode
 To use our saved weights:
 
 1. Download the model weights by cloning or downloading the repository
-   git clone https://github.com/jaikishore4195/Langauge_model.git
+2. Run in terminal - git clone https://github.com/jaikishore4195/Langauge_model.git
 2. Download Word2vec weights from this link as it is >25mb. https://drive.google.com/open?id=1564D9AKSgd6l4J5p-APVUHXpDlxn2PLk
 3. Copy and paste word2vec.model weights downloaded from above link to Language_model folder.
 4. cd Langauge_model
