@@ -23,4 +23,16 @@ Tensorboard
 
 # Performance
 
+Loss over epochs
+
 ![](Images/Loss.png)
+
+Generating text using Random Search
+
+![](Images/predicted_text.png)
+
+Generating text using Greedy Search
+
+![](Images/predicted_text2.png)
+
+
